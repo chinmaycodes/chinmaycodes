@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmaycodes
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a Java Developer
+- 🌱 I’m currently learning Android Development
 
 <!---
 chinmaycodes/chinmaycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
